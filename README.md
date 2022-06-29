@@ -1,9 +1,9 @@
 # encryption
 a simple encryption algorithm coded in python.
 
-generating the same thing with the same password
-will result in different responses each time that
-will decode to the same thing.
+###generating the same thing with the same password
+###will result in different responses each time that
+###will decode to the same thing.
 
 # usage
 
