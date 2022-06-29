@@ -26,7 +26,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;a random heap of characters depending on how long  
 &nbsp;&nbsp;&nbsp;&nbsp;your encryption string was.  
     
-&nbsp;&nbsp;&nbsp;&nbsp;**input**: ``FE1N731KFE1IC31G3B2G241MFE1O831O341V393``, **wrodl**  
+&nbsp;&nbsp;&nbsp;&nbsp;**input**: ``FE1N731KFE1IC31G3B2G241MFE1O831O341V393, wrodl``  
 &nbsp;&nbsp;&nbsp;&nbsp;**output**: `` `Zgl_  ``
   
 # happy encrypting :^)
