@@ -1,5 +1,6 @@
 # encryption
-&nbsp;&nbsp;&nbsp;&nbsp;a simple encryption algorithm coded in python.
+&nbsp;&nbsp;&nbsp;&nbsp;a simple encryption algorithm coded in python,
+&nbsp;&nbsp;&nbsp;&nbsp;that only uses preinstalled python modules.
 
 &nbsp;&nbsp;&nbsp;&nbsp;generating the same thing with the same password  
 &nbsp;&nbsp;&nbsp;&nbsp;will result in different responses each time that will  
